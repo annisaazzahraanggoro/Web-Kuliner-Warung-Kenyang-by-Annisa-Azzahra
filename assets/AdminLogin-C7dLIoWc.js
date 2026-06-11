@@ -1,0 +1,1 @@
+import{p as e,t,u as n,v as r}from"./index-D5kGeTBl.js";var i={},a={class:`container py-8 text-center`};function o(t,i){return r(),e(`div`,a,[...i[0]||=[n(`h2`,null,`Admin Login`,-1)]])}var s=t(i,[[`render`,o]]);export{s as default};
